@@ -45,6 +45,8 @@
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-430098?style=flat-square&logo=Web3.js&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-cf7215?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-0033b0?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0033b0?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0033b0?style=flat-square&logo=Kubernetes&logoColor=white" />
@@ -54,8 +56,7 @@
 </p>
 
 <h1></h1>
-<h3>☁️ Do consider Checking my portfolio 👇 </h3>
-<a href="https://mk-portfolio-stage.s3.ap-south-1.amazonaws.com/index.html">mk-portfolio-stage.s3.ap-south-1.amazonaws.com</a>
+<h3>☁️ Do consider Checking my <a href="http://mk-portfolio-stage.s3-website.ap-south-1.amazonaws.com" target="_blank">portfolio 🔗</a> </h3>
 
 <h1></h1>
 
