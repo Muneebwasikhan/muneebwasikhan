@@ -1,8 +1,6 @@
+<img src="https://raw.githubusercontent.com/Muneebwasikhan/muneebwasikhan/main/Hi%20I'm%20M%20Muneeb%20Khan.png" alt="muneebwasikhan_image">
+<br />
 ### Hey!! Great to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-My name is **M Muneeb Khan** 🧑‍💻
-<h1></h1>
 
 I am a JavaScript Full-Stack Engineer ✨🥳
 
