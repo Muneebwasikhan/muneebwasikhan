@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/Muneebwasikhan/muneebwasikhan/main/Hi%20I'm%20M%20Muneeb%20Khan.png" alt="muneebwasikhan_image">
-<br />
-### Hey!! Great to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a JavaScript Full-Stack Engineer ✨🥳
+<p> Great to see you here! 🎉 
+<p/>
+<h1></h1> 
 
-* 💻 A dedicated and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe ☁️
+💻 I'm a dedicated and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe ☁️
 
 <h1></h1>
 
@@ -62,7 +62,7 @@ I am a JavaScript Full-Stack Engineer ✨🥳
 
 <h3>⚡ Fun facts</h3>
 
-I am an angler 🎣, foodie and traveller.
+I am a photographer 🎣, googler and traveller.
 
 Check out some cool stuff on my [Instagram](https://www.instagram.com/muneebwasikhan) 🥳
 
