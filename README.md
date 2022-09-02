@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/Muneebwasikhan/muneebwasikhan/main/Hi%20I'm%20M%20Muneeb%20Khan.png" alt="muneebwasikhan_image">
 
-<p> Great to see you here! 🎉 
+<p> Great to see you here! Yes you're exactly where you needed to be 🎉 
 <p/>
 <h1></h1> 
 
-💻 I'm a dedicated and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe ☁️
+💻 A creative and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe ☁️
 
 <h1></h1>
 
