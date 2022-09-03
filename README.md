@@ -11,7 +11,7 @@
 <h3>🔭 I’m currently working for</h3>
 
 
-  - [Digital Marknadsplan](https://www.nisum.com) as a Software Engineer, developing large Digital Marketing platforms with React, NodeJs, Typescript Graphql, AWS and many more trending technologies.
+  - [Digital Marknadsplan](https://marknadsplan.se/) as a Software Engineer, developing large Digital Marketing platforms with React, NodeJs, Typescript Graphql, AWS and many more trending technologies.
 
 🌱 I’m currently learning DevOps/AWS and design system 🚀
 <h1></h1>
