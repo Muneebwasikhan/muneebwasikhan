@@ -56,7 +56,7 @@
 </p>
 
 <h1></h1>
-<h3>☁️ Do consider Checking my <a href="www.muneebwasikhan.com" target="_blank">portfolio 🔗</a> </h3>
+<h3>☁️ Do consider Checking my <a href="https://www.muneebwasikhan.com" target="_blank">portfolio 🔗</a> </h3>
 
 <h1></h1>
 
