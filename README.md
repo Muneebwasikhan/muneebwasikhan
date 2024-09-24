@@ -8,10 +8,10 @@
 
 <h1></h1>
 
-<h3>🔭 I’m currently working for</h3>
+<h3>🔭 I’m currently working as a Freelancer</h3>
 
 
-  - [Digital Marknadsplan](https://marknadsplan.se/) as a Software Engineer, developing large Digital Marketing platforms with React, NodeJs, Typescript Graphql, AWS and many more trending technologies.
+  - I’m a fully remote Senior Engineer, freelancing on diverse projects, primarily for U.S.-based clients. I specialize in full-stack development with expertise in React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL etc. I prefer working on EST hours, ensuring seamless collaboration with my clients. My focus is on delivering scalable, high-quality applications that meet and exceed expectations.
 
 🌱 I’m currently learning DevOps/AWS and design system 🚀
 <h1></h1>
