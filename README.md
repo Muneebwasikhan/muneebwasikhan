@@ -1,75 +1,131 @@
 <img src="https://raw.githubusercontent.com/Muneebwasikhan/muneebwasikhan/main/Hi%20I'm%20M%20Muneeb%20Khan.png" alt="muneebwasikhan_image">
 
-<p> Great to see you here! Yes you're exactly where you needed to be 🎉 
-<p/>
-<h1></h1> 
+### 👋 Welcome — Glad to See You Here!
 
-💻 A creative and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe ☁️
+I'm **M. Muneeb Khan**, a **Senior Full Stack Web & Hybrid Mobile Developer** with **6+ years of experience** building scalable, production-grade applications using **JavaScript, TypeScript, React, Next.js, React Native, Node.js, GraphQL, and AWS**.
 
-<h1></h1>
+I have led teams, built startups, delivered global client projects, and developed solutions used by **thousands of users worldwide**.
 
-<h3>🔭 I’m currently working as a Freelancer</h3>
+---
 
+# 🚀 About Me
 
-  - I’m a fully remote Senior Engineer, freelancing on diverse projects, primarily for U.S.-based clients. I specialize in full-stack development with expertise in React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL etc. I prefer working on EST hours, ensuring seamless collaboration with my clients. My focus is on delivering scalable, high-quality applications that meet and exceed expectations.
+💻 **Senior Full Stack Developer** — specializing in modern JavaScript & TypeScript ecosystems  
+📱 Hybrid mobile developer (React Native, Ionic, Capacitor)  
+☁️ Cloud-focused engineer (AWS, serverless, CI/CD, deployments)  
+🌍 Experience delivering projects across **US, Europe, Turkey & Pakistan**  
+🧭 Founder experience (Slicesoft LTD) — hiring, leading teams, managing delivery  
+🛠 Strong in full lifecycle development: requirements → architecture → development → QA → deployment
 
-🌱 I’m currently learning DevOps/AWS and design system 🚀
-<h1></h1>
+I love solving complex problems, building digital experiences, and delivering clean, scalable systems.
 
-<h3>Technologies and tools I code with</h3>
+Currently working with **US-based clients** on mapping systems, dashboards, analytics platforms, and high-performance web apps.
 
+---
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-4285f4?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-e5ce27?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-556070?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-cf7215?style=flat-square&logo=Amazon&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-postman-f15d27?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="DynamoDb" src="https://img.shields.io/badge/-Amazon%20DynamoDB-4287f5?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-430098?style=flat-square&logo=Web3.js&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-cf7215?style=flat-square&logo=solidity&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-0033b0?style=flat-square&logo=Linux&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0033b0?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-0033b0?style=flat-square&logo=Kubernetes&logoColor=white" />
-  
- 
-  
-</p>
+# 🛠️ Tech Stack (Updated)
 
-<h1></h1>
-<h3>☁️ Do consider Checking my <a href="https://www.muneebwasikhan.com" target="_blank">portfolio 🔗</a> </h3>
+### **Frontend**
+React.js • Next.js • React Native • Angular • Gatsby • Ionic • Redux • MUI • Jest • Playwright
 
-<h1></h1>
+### **Backend**
+Node.js • Express.js • Nest.js • Adonis.js • GraphQL Apollo • Firebase • Firestore
 
+### **Databases**
+MongoDB • PostgreSQL • MySQL
 
-<h3>⚡ Fun facts</h3>
+### **Cloud & DevOps**
+AWS • Docker • Kubernetes • CI/CD • Serverless • GitHub Actions
 
-I am a photographer 🎣, googler and traveller.
+### **Web3**
+Solidity • Web3.js • Truffle • Ganache • Metamask
 
-Check out some cool stuff on my [Instagram](https://www.instagram.com/muneebwasikhan) 🥳
+### **Tools**
+Git • Jira • Linear • Slack • Figma • Highcharts • Map APIs
 
-<h1></h1>
+---
 
-<h3>📫 How to reach me</h3>
+# ⭐ Featured Work / Career Timeline
+
+### **Senior Full Stack Developer (Freelancer) — 2024 → Present**
+Building dashboards, analytics systems, mapping applications, and full-stack platforms for **US-based clients** using React, Next.js, Highcharts, Maps API, and Node.js.
+
+### **Founder — Slicesoft LTD (2023 → 2024)**
+Built and led a global engineering team. Delivered full-stack solutions using React, Node.js, GraphQL, AWS & MongoDB.
+
+### **Full Stack Developer — Digital Marknadsplan (2020 → 2023)**
+Developed a complete digital platform for a Swedish company. Worked across React, Node.js, GraphQL, Apollo, MongoDB.
+
+### **Co-Founder — Daily Cart (2019 → 2021)**
+Led the entire technical development of a grocery delivery startup:
+- User app  
+- Vendor app  
+- Rider app  
+- Admin dashboard  
+- Backend APIs  
+- Real-time updates
+
+### **Freelance Engineer — Upwork & Fiverr (2019 → 2020)**
+Delivered dozens of full stack, blockchain, and cloud-based projects.
+
+### **Cloud Teaching Assistant — PIAIC (2018 → 2019)**
+Assisted in Web Development & Cloud Computing training for Pakistan’s Presidential Program.
+
+### **MERN Developer — Panacloud (2018 → 2019)**
+Worked on the Presidential Initiative for Artificial Intelligence & Computing (PIAIC) — base development team.
+
+---
+
+# 🚀 Highlight Projects
+
+### 🏛 **PIAIC — Presidential Initiative for AI & Computing**
+Built the frontend used by **thousands of students** applying nationwide.  
+**Tech:** React.js • Express.js • MongoDB
+
+### 🛒 **Daily Cart — Grocery Delivery System (Startup)**
+Full ecosystem: user mobile app, vendor app, rider app, web, backend, admin, tracking.  
+**Tech:** React.js • React Native • GraphQL • MongoDB
+
+### 🇸🇪 **Digital Platform — Digital Marknadsplan**
+A complete marketing & automation platform for a Swedish agency.  
+**Tech:** React.js • GraphQL • MongoDB
+
+### 🧬 **Declinica (Blockchain Medical DApp)**
+Decentralized medical platform for sensitive record handling.  
+**Tech:** React • Web3.js • Truffle • Ganache • Metamask
+
+### 🗺 **Confidential US-based Projects (Ongoing)**
+Building dashboards, mapping UIs, analytics tools, and enterprise apps.  
+**Tech:** React • Next.js • Maps API • Highcharts • MUI
+
+---
+
+# 🌍 Success & Recognition
+
+### 🛰️ **Google Street View (GSV) — Largest 360° Mapping Contribution in Pakistan**
+Covered **500+ KM** of Karachi’s Street View with **110+ million views** — the highest individual GSV contribution in Pakistan.
+
+---
+
+# 🎯 Current Focus
+
+🌱 Improving in **DevOps, AWS, Kubernetes, design systems, automation**  
+🧠 Building scalable architectures & high-performance dashboards  
+📡 Working with global teams & remote clients
+
+---
+
+# ☁️ Check Out My Portfolio  
+🔥 **https://www.muneeb-khan.com**
+
+---
+
+# ⚡ Fun Facts  
+📸 Photographer • 🌍 Traveler • 💡 Learner
+
+---
+
+# 📫 Reach Out
 
 <p>
   <a href="https://github.com/muneebwasikhan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -77,3 +133,5 @@ Check out some cool stuff on my [Instagram](https://www.instagram.com/muneebwasi
   <a href="https://www.linkedin.com/in/muneebwasikhan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href = "mailto: muneebwasikhan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
